@@ -2,13 +2,14 @@ Hello,
 
 My name is André Jeon and this is my finished assessment.
 
-You would want be in the 'my-app' directory and then npm install and then npm start in your terminal to start the brower to see my answers.
+You would want be in the 'my-app' directory and then npm(npx) install and then npm start in your terminal to start the brower to see my answers.
+Also, if you inspect using dev tool, you'll be able to see the console where it tell you the right raw JavaScript objects for problems 1a, 1b.
 
-Just in case, I attached the screenshot of how it should look in the brower in the 'src' folder
+Just in case, I attached all the relevent screenshots below.
 
-[a relative link](my-app/src/Screenshot.png)
-
-
+[Screenshot1](my-app/src/Screenshot1.png)
+[Screenshot2](my-app/src/Screenshot2.png)
+[Screenshot3](my-app/src/Screenshot3.png)
 # nvps1
 
 Total Time - 1 - 1.5 Hours
