@@ -1,3 +1,18 @@
+Hello,
+
+My name is André Jeon and this is my finished assessment.
+
+You would want be in the 'my-app' directory and then npm install and then npm start in your terminal to start the brower to see my answers.
+
+Just in case, I attached the screenshot of how it should look in the brower in the 'src' folder
+
+
+
+
+
+
+
+
 # nvps1
 
 Total Time - 1 - 1.5 Hours
