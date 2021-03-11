@@ -6,7 +6,7 @@ You would want be in the 'my-app' directory and then npm install and then npm st
 
 Just in case, I attached the screenshot of how it should look in the brower in the 'src' folder
 
-[a relative link](README.md)
+[a relative link](my-app/src/Screen Shot 2021-03-11 at 5.17.07 PM.png)
 
 
 # nvps1
