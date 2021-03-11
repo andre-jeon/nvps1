@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+  /* border: 1px solid gray; */
+}
+
+
+.woo {
+  display: flex;
+}
+
+.problem1a_flex{
+  display: flex;
+  align-items: center;
+  text-align: center;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 33%;
+}
+
+.problem1b_flex {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.problem1b h2{
+  width: 100%;
+  text-align: center;
+}
+.problem1b p{
+  width: 100%;
+  text-align: center;
+}
+.big {
+  display: flex;
+  justify-content: space-between;
+}
